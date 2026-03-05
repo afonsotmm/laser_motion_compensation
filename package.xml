@@ -1,0 +1,15 @@
+<package format="2">
+  <name>motion_distortion_compensator</name>
+  <version>0.0.1</version>
+  <description>Compensates LIDAR scan distortions caused by robot movement during a scan</description>
+
+  <maintainer email="afonso@gmail.com">afonso</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>sensor_msgs</depend>
+</package>
