@@ -115,22 +115,6 @@ $$
 
 ---
 
-# Point Representation
-
-Each LiDAR measurement is represented in the LiDAR frame at the acquisition time $t_i$:
-
-$$
-P_i =
-\begin{bmatrix}
-x_i^{L} \\
-y_i^{L}
-\end{bmatrix}
-$$
-
-where $x_i^{L}$ and $y_i^{L}$ correspond to the Cartesian coordinates of the LiDAR point.
-
----
-
 # Motion Compensation
 
 To remove motion distortion, each point must be expressed in a common reference frame.  
