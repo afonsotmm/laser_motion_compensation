@@ -237,3 +237,14 @@ The method relies on the following assumptions:
 # License
 
 MIT License
+
+## Credits
+
+Developed by **Electrical and Computer Engineering students at FEUP** for **Robot Factory 4.0** (National Robotics Festival 2026):
+
+* *Afonso Mateus*
+* *Christian Geyer*
+* *Daniel Silva*
+* *Pedro Lopes*
+
+---
